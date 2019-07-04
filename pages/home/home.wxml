@@ -1,0 +1,15 @@
+<!--pages/home/home.wxml-->
+
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo">
+     <text>这是我的首页</text>
+     <text>{{msg}}</text>
+
+  </view>
+
+
+
+
+</view>
+
